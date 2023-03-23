@@ -1,0 +1,57 @@
+.first{
+    background-color:#2d283e ;
+}
+.container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    color: #d1d7e0;
+    align-items: center;
+}
+.home{
+    display: flex;
+    height: 79%;
+    background-color: #564f6f;
+    width: 70%;
+    border-radius: 4rem;
+}
+.lottie{
+   height: 100%;
+   width: 50%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   text-align: center;
+}
+.text{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.innerdiv{
+    width: 80%;
+    font-size:180% ;
+    word-wrap: break-word;
+    line-height: 2.5rem;
+    height: fit-content;
+    margin-left: 3rem;
+}
+.button{
+    width: 8rem;
+    height: 3rem;
+    color: white;
+    font-size: larger;
+    background-color: #802bb1;
+    border-radius: 1rem;
+    cursor: pointer;
+    border: none;
+}
+.afterText{
+    padding-top: 3rem;
+    height: fit-content;
+    width: fit-content;
+}
